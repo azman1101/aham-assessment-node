@@ -14,8 +14,8 @@ module.exports = {
     dialect: 'mysql',
     host: 'eu-cdbr-west-03.cleardb.net',
     port: 3306,
-    username: 'b22aa860547d73',
-    password: '0ee164a3',
-    database: 'heroku_8277bab62a54ba1',
+    username: 'bc9b72b5507264',
+    password: 'eeb5c0bf',
+    database: 'heroku_bb303c15efbc677',
   },
 };

@@ -12,7 +12,7 @@ module.exports = (sequelize, DataTypes) => {
     email: DataTypes.STRING,
     phone: DataTypes.STRING,
     address: DataTypes.STRING,
-    age: DataTypes.DATE,
+    age: DataTypes.INTEGER,
   }, {
     sequelize,
     modelName: 'Customer',
